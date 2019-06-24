@@ -1,0 +1,10 @@
+/*
+ Theme Name:   Unite Child
+ Theme URI:    https://colorlib.com/unite/
+ Description:  Unite Child Theme
+ Template:     unite
+*/
+
+@import url("../unite/style.css");
+
+.site-footer {border-top: none;}
